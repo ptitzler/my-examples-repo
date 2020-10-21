@@ -1,0 +1,11 @@
+load_data.py
+  Pandas
+  DATASET_URL=https://dax-cdn.cdn.appdomain.cloud/dax-noaa-weather-data-jfk-airport/1.1.4/noaa-weather-data-jfk-airport.tar.gz
+  data/noaa-weather-data-jfk-airport/jfk_weather.csv
+Part 1 - Data Cleaning.ipynb
+  Pandas
+  data/noaa-weather-data-jfk-airport/jfk_weather_cleaned.csv
+Part 2 - Data Analysis.ipynb
+  Pandas
+Part 3 - Time Series Forecasting.ipynb
+  Pandas
