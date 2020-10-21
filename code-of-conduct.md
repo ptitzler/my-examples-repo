@@ -16,16 +16,6 @@ limitations under the License.
 {% endcomment %}
 -->
 
-# Elyra examples
+# Elyra Community Code of Conduct
 
-
-This repository provides a set of examples that explore some of the unique
-features provided by Elyra.
-
-### Notebook pipelines tutorials
-- [Running notebook pipelines in a local environment](pipelines/hello_world)
-- [Running notebook pipelines on Kubeflow Pipelines](pipelines/hello_world_kubeflow_pipelines)
-
-### Example notebook pipelines
-- [NOAA time-series data weather prediction pipeline](pipelines/dax_noaa_weather_data)
-
+Please refer to our [Elyra Community Code of Conduct](https://github.com/elyra-ai/community/blob/master/code-of-conduct.md)

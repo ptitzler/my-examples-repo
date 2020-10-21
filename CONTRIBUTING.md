@@ -16,16 +16,11 @@ limitations under the License.
 {% endcomment %}
 -->
 
-# Elyra examples
+# Contributing
 
+Welcome to Elyra! If you are interested in contributing to the [Elyra code repo](README.md)
+then checkout the [Contributor's Guide](https://github.com/elyra-ai/community/blob/master/contributing.md).
 
-This repository provides a set of examples that explore some of the unique
-features provided by Elyra.
-
-### Notebook pipelines tutorials
-- [Running notebook pipelines in a local environment](pipelines/hello_world)
-- [Running notebook pipelines on Kubeflow Pipelines](pipelines/hello_world_kubeflow_pipelines)
-
-### Example notebook pipelines
-- [NOAA time-series data weather prediction pipeline](pipelines/dax_noaa_weather_data)
+The [Elyra community repo](https://github.com/elyra-ai/community) contains information on how the community
+is organized and other information that is pertinent to contributing.
 
